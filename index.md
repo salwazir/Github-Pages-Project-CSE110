@@ -48,7 +48,7 @@ You can also use inline code like `git status` to check your repository state.
 ### Ordered List
 1. Learn the fundamentals
 2. Practice by building projects
-3. Improve through feedback
+3. Improve through feedback 
 4. Keep exploring new ideas
 
 ### Task List
