@@ -10,7 +10,6 @@ I am interested in computer science because I like problem solving, creativity, 
 
 My favorite programming language is *Python* because it is readable, powerful, and versatile.
 
-~~Learning to code is not always easy, but it is always worth it.~~
 
 ## A Favorite Quote
 > "The best way to predict the future is to invent it."
