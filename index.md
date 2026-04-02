@@ -33,7 +33,7 @@ You can also use inline code like `git status` to check your repository state.
 - Relative link to an image file: [My Photo File](pfp.png)
 
 ## Picture
-<img src="pfp.png" alt="Profile Picture" width="50">
+<img src="pfp.png" alt="Profile Picture" width="200">
 
 ## Skills and Interests
 
