@@ -27,7 +27,7 @@ print(intro("GitHub"))
 You can also use inline code like `git status` to check your repository state.
 
 ## Links
-- External link: [[Click Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- External link: [Click Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - Section link: [Jump to My Goals](#my-goals)
 - Relative link to README: [README](README.md)
 - Relative link to an image file: [My Photo File](pfp.png)
