@@ -18,10 +18,10 @@ My favorite programming language is *Python* because it is readable, powerful, a
 Here is a small example of Python code:
 
 ```python
-def greet(name):
-    return f"Hello, {name}!"
+def intro(txt):
+    return f"Hello, {txt}!"
 
-print(greet("GitHub"))
+print(intro("GitHub"))
 ```
 
 You can also use inline code like `git status` to check your repository state.
